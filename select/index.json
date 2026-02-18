@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Choke",
+  "base_artist": "Kittie",
+  "createdAt": "2026-02-18T15:27:29.937044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Choke Slam",
+      "artist": "nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/01_Choke_Slam_nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Roil, The Choke",
+      "artist": "Brian Eno",
+      "has_synced": false,
+      "path": "select/02_The_Roil,_The_Choke_Brian_Eno.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Choke",
+      "artist": "Austra",
+      "has_synced": false,
+      "path": "select/03_The_Choke_Austra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Am There While You Choke on Me",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/04_I_Am_There_While_You_Choke_on_Me_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Choke",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/05_The_Choke_Austra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Choke",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/06_Choke_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Ma, Do I Hafta Choke On These",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/07_Hey_Ma,_Do_I_Hafta_Choke_On_These_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Choke on It",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/08_Choke_on_It_Death.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Choke on It",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/09_Choke_on_It_Death.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Choke on It - 12/05/87 Rehearsals",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/10_Choke_on_It_-_12_05_87_Rehearsals_Death.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Choke on It (12\u000005\u000087 Rehearsals)",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/11_Choke_on_It_(12\u000005\u000087_Rehearsals)_Death.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Choke on It - 9/23/87 Rehearsal",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/12_Choke_on_It_-_9_23_87_Rehearsal_Death.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Choke on It (9\u000023\u000087 Rehearsal)",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/13_Choke_on_It_(9\u000023\u000087_Rehearsal)_Death.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Choke",
+      "artist": "Skinny Puppy",
+      "has_synced": true,
+      "path": "select/14_The_Choke_Skinny_Puppy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "4 Words (To Choke Upon)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/15_4_Words_(To_Choke_Upon)_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Choke",
+      "artist": "Kittie",
+      "has_synced": false,
+      "path": "select/pl_01_Choke_Kittie.txt"
+    }
+  ]
+}
